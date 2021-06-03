@@ -1,7 +1,10 @@
 /* * {
     background-color: rgb(94, 94, 94);
 } */
-
+.containerall{
+    padding-right: 12%;
+    padding-left: 12% ;
+}
 
 h1 {
     font-family: 'Caveat', cursive;
@@ -104,9 +107,9 @@ footer n{
     bottom: 50px;
     color: gray;
 }
-footer a {
+a {
     position: relative;
-    left: 250px;
+    margin-left: 850px;
     bottom: 70px;
     padding: 20px;
     background-color:brown;
@@ -119,18 +122,18 @@ footer a {
   }
   #second{
       position: relative;
-      right:300px;
+      left:50%;
   }
   footer w{
       color: lightgray;
-position: relative;
-right: 450px;
-top: 90px;
+       position: relative;
+     left: 359px;
+     top: 70px;
   }
   footer mahmoud{
     color: lightgray;
     position: relative;
-    left: 525px;
-    top: 100px;
-      }
+    left: 430px;
+    top: 70px;
+}
   
